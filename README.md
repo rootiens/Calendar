@@ -4,12 +4,12 @@ Calender application built with VueJS, Vuetify and Firebase
 
 # Firebase Configuration
 
-I've created a collection called "calEvent" in Firebase with these fields:
-  name // name of the event
-  details // details of the event
-  start // start date of the event
-  end // end date of the event
-  color // event color
+I've created a collection called "calEvent" in Firebase with these fields:<br/>
+  name // name of the event<br/>
+  details // details of the event<br/>
+  start // start date of the event<br/>
+  end // end date of the event<br/>
+  color // event color<br/>
   
 
 ## Project setup
